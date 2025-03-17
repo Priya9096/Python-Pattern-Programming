@@ -11,7 +11,7 @@ Welcome to the **Pattern Programming in Python** repository! 🚀 This repositor
 ## 🎥 Watch the Explanation on YouTube
 For a detailed explanation of each pattern, watch my YouTube playlist:  
 📺 **[Subscribe For Future MERN Stack, Spring and Django Projects for Free of Cost](https://www.youtube.com/@JobReadyCoderZ/playlists)**  
-📺 **[Pattern Programming in Python - Full Playlist](https://youtube.com/playlist?list=PLp4WMXO7ORJFJEqI53HWYuP_-BmfWUycD&si=PfiU5ibOxnrEh4Q7)**  
+
 
 
 
